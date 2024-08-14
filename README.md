@@ -1,7 +1,7 @@
 # httpd bug reproducer.
 
-I think I've found a bug in apache httpd and this repository is meant to
-reproduce that bug.
+I think I've found a bug in apache httpd (https://bz.apache.org/bugzilla/show_bug.cgi?id=69261)
+and this repository is meant to demonstrate and reproduce that bug.
 
 Run `run.sh` and the script will build and interact with two containers.
 
